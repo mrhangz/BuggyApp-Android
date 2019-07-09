@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="song_artwork_size">200dp</dimen>
+    <dimen name="country_flag_image_width">80dp</dimen>
+    <dimen name="country_flag_image_height">45dp</dimen>
+</resources>

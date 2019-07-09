@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jingle Bell</string>
+
+    <string name="menu_country_list">Country</string>
+    <string name="menu_song">Song</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="country_flag_description">country flag</string>
+    <string name="country_capital_text_template">Capital: %s</string>
+
+    <string name="price_text_template">%s %s</string>
+    <string name="song_album_label">Album</string>
+    <string name="song_release_date_label">Release Date</string>
+    <string name="song_genre">Genre</string>
+    <string name="song_price_label">Track Price</string>
+    <string name="song_collection_price_label">Collection Price</string>
+
+    <string name="welcome_label">welcome</string>
+    <string name="enter_nickname_label">Please enter your name (nickname)</string>
+    <string name="nickname_hint">John Sick (John)</string>
+</resources>
